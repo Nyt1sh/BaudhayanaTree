@@ -96,13 +96,12 @@ patterns.
 ## 📁 Project structure
 
 ``` text
-neon-pythagoras-tree/
-├── main.py
+BaudhayanaTree/
+├── Tree.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── assets/
-    └── preview.png
+└── Baudhayana_Tree.png
 ```
 
 The `assets/preview.png` file is optional. Add a screenshot of the
